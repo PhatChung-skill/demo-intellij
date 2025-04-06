@@ -17,6 +17,7 @@ public class arraylist {
         }
         System.out.println("Ds list lon sau khi nhap la: "+lon);
         System.out.println("");
+
         //them phan tu cuoi
         System.out.print("NHap phan tu can them vao cuoi: ");
         int themcuoi= dc.nextInt();
